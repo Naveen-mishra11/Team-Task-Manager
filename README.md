@@ -252,3 +252,4 @@ Built as an assignment project demonstrating full-stack MERN development skills.
 ---
 
 **Happy Coding! 🚀**
+**MADE BY NAVEEN**
